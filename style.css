@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    border: 1px solid black;
+  }
+  
+  canvas {
+    border: 1px solid black;
+  }
+  
+  button {
+    margin-top: 10px;
+    font-size: x-large;
+    
+  }
+
+
+  
